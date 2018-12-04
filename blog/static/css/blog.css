@@ -1,5 +1,5 @@
 html, body {
-	background-color: black;
+	background-color: grey;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 .page-header {
-	background-color: blue;
+	background-color: black;
 	margin-top: 0;
 	padding: 20px 20px 20px 40px;
 }
@@ -24,11 +24,11 @@ body {
 
 h1, h2, h3, h4, p {
 	font-family: 'Unlock', cursive;
-	color: white;
+	color: black;
 }
 
 .date {
-	color: red;
+	color: black;
 }
 
 .save {
